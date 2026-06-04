@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Myo Min Lin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Myaing Township, Magway, Myanmar</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Matsudo, Chiba Prefecture, Japan</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  [![Myo Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoMinLin)](https://github.com/anuraghazra/github-readme-stats)
+  [![Myo Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoMinLin)](https://github.com/MyoMinLin/github-readme-stats)
 </p>
 <h3>My latest posts</h3>
 <ul>
