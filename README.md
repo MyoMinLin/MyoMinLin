@@ -3,8 +3,6 @@
 
 <p>Welcome to my page! </br> I'm Myo Min Lin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Myaing Township, Magway, Myanmar</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Matsudo, Chiba Prefecture, Japan</b>. </p>
 <h3>Things I code with</h3>
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MyoMinLin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyoMinLin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
