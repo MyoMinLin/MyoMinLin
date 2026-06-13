@@ -3,10 +3,12 @@
 
 <p>Welcome to my page! </br> I'm Myo Min Lin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Myaing Township, Magway, Myanmar</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Matsudo, Chiba Prefecture, Japan</b>. </p>
 <h3>Things I code with</h3>
-<p>
-  [![Myo Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoMinLin)](https://github.com/MyoMinLin/github-readme-stats)
-</p>
-<h3>My latest posts</h3>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MyoMinLin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyoMinLin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p><h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
   <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
